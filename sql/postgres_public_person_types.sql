@@ -1,0 +1,11 @@
+INSERT INTO public.person_types (id, type) VALUES (1, 'director');
+INSERT INTO public.person_types (id, type) VALUES (2, 'actor');
+INSERT INTO public.person_types (id, type) VALUES (3, 'producer');
+INSERT INTO public.person_types (id, type) VALUES (4, 'voice_director');
+INSERT INTO public.person_types (id, type) VALUES (5, 'translator');
+INSERT INTO public.person_types (id, type) VALUES (6, 'voice');
+INSERT INTO public.person_types (id, type) VALUES (7, 'writer');
+INSERT INTO public.person_types (id, type) VALUES (8, 'operator');
+INSERT INTO public.person_types (id, type) VALUES (9, 'composer');
+INSERT INTO public.person_types (id, type) VALUES (10, 'design');
+INSERT INTO public.person_types (id, type) VALUES (11, 'editor');
